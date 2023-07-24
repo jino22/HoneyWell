@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "@types/jest": "^29.5.2"
+  },
+  "dependencies": {
+    "Base64": "^1.2.0",
+    "body-parser": "^1.20.2",
+    "crypto": "^1.0.1",
+    "js-base64": "^3.7.5",
+    "request": "^2.88.2",
+    "supertest": "^6.3.3"
+  }
+}

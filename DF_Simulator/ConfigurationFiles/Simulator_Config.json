@@ -1,0 +1,72 @@
+[
+  {
+    "id": 40385,
+    "timestamp": "2023-07-14T12:37:33.6284048+05:30",
+    "currentjobstatus": "Stoped",
+    "timer": 5,
+    "timertype": "Default",
+    "sensor": "cdb4609b-e25c-4fd8-ab20-3a90690f9dc8",
+    "simulatorname": "df43fc81f9-33d8-4109-9925-7055b18f3638",
+    "Action": "Start"
+  },
+  {
+    "id": 29796,
+    "timestamp": "2023-07-14T12:48:52.3934653+05:30",
+    "currentjobstatus": "Stoped",
+    "timer": 5,
+    "timertype": "Default",
+    "sensor": "46ac060f-e97a-4ef7-bf66-508118f7eb7a",
+    "simulatorname": "DSC32ba000e-d5a2-42bb-8f4d-3e5012d13558",
+    "Action": "Start"
+  },
+  {
+    "id": 34311,
+    "timestamp": "2023-07-14T12:49:47.650949+05:30",
+    "currentjobstatus": "Stoped",
+    "timer": 5,
+    "timertype": "Default",
+    "sensor": "31626f37-be56-4e1a-a1d8-a2b6a255e972",
+    "simulatorname": "dasde3980609-9057-4dbe-982d-2396b3b1afda",
+    "Action": "Start"
+  },
+  {
+    "id": 92838,
+    "timestamp": "2023-07-14T12:51:54.8634283+05:30",
+    "currentjobstatus": "Stoped",
+    "timer": 5,
+    "timertype": "Default",
+    "sensor": "16a28ebc-d174-45c2-b364-c29af17af80c",
+    "simulatorname": "dsfsa289e44a-305f-46fd-952d-b03a5c7b34a6",
+    "Action": "Start"
+  },
+  {
+    "id": 99792,
+    "timestamp": "2023-07-14T12:52:47.1037642+05:30",
+    "currentjobstatus": "Stoped",
+    "timer": 5,
+    "timertype": "Default",
+    "sensor": "0e7e3db0-99b5-440a-8c67-79098210be8a",
+    "simulatorname": "SFS5e1acc19-c5bb-453a-8733-a1608ad8b066",
+    "Action": "Start"
+  },
+  {
+    "id": 78910,
+    "timestamp": "2023-07-14T12:55:36.5413774+05:30",
+    "currentjobstatus": "Stoped",
+    "timer": 5,
+    "timertype": "Default",
+    "sensor": "4521bcc2-6b6f-4771-8e68-b9c7263ec213",
+    "simulatorname": "FDV19288648-39bf-457a-948f-e76553ae42b3",
+    "Action": "Start"
+  },
+  {
+    "id": 31376,
+    "timestamp": "2023-07-14T12:56:42.0590447+05:30",
+    "currentjobstatus": "Stoped",
+    "timer": 5,
+    "timertype": "Default",
+    "sensor": "d30b4de3-4949-4d29-bb91-a394cc6ff495",
+    "simulatorname": "SDFa82df132-7b06-4d73-b249-b6feca4e3e5b",
+    "Action": "Start"
+  }
+]

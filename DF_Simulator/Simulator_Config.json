@@ -1,0 +1,11 @@
+[
+    {
+    "id": 32634,
+    "timestamp": "2023-07-12T17:43:55.1970964+05:30",
+    "currentjobstatus": "Stoped",
+    "timer": 5,
+    "timertype": "Default",
+    "sensor": "170d6196-3aa3-4ebb-a8ca-263a26c9920c",
+    "simulatorname": "Sensor19108d1fc-ee55-4688-a695-8622c65d5393"
+  }
+]

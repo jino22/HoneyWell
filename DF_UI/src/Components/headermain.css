@@ -1,0 +1,136 @@
+.headerc{
+    background-color: brown;
+    
+    /* margin-left: 70px; */
+    }
+.roomtemp{
+    margin-top: 100px;
+    margin-left: 5%;
+}
+.temp{
+    background-color:mediumslateblue;
+    height: 40px;
+    width: 13%; 
+    padding-top: 10px; 
+}
+.tempiaq{
+    background-color:mediumslateblue;
+    height: 40px;
+    width: 15%; 
+    padding-top: 10px;  
+}
+h4{
+    padding-top: 10px;
+    color: white;
+    font-size: 20px;
+}
+.filterbutton{
+    
+    color: white;
+    margin-left: 50px;
+    
+}
+.Buttonsalign{
+    padding-left: 45%;
+    display: flex;
+}
+
+.Buttonswrapalign{
+    margin-left: -150px;
+}
+label{
+    margin-left: 50px;
+}
+table {
+    border-collapse:collapse;
+    width:100%;
+   
+}
+  
+th {
+    text-align: center; 
+}
+
+td{
+   
+    margin-left: 1%;
+}
+
+
+thead{
+    background-color: #1976d2;
+    color: white;
+    
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+  
+tr:nth-child(even) {
+    background-color: gray;
+}
+tr:nth-child(odd) {
+    background-color: rgb(219, 212, 212);
+}
+.ficon{
+    margin-top: 20px;
+}
+.Down{
+    width: 102%;
+    margin-left: 1%;
+    padding-top: 50px;
+    /* position: fixed; */
+}
+
+.buttonstyle{
+    margin-left: '50px';
+    background-color:'#1976d2';
+}
+
+.buttonactivestyle{
+    margin-left: '50px';
+    background-color:'#a1b6cb';
+    border-color: black;
+}
+/* .css-1nxmd3h-MuiListItem-root.Mui-selected {
+    background-color: blue;
+} */
+
+/* .tableheader{
+    height: 30px;
+    /* padding-right: 30px; */
+    /* text-align: center; */
+/* }  */
+.sidebar a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
+  h6{
+      margin-left: 120px;
+      background-color: brown;
+  }
+  p{
+      float: left;
+  }
+
+/* .dashboard{
+    display:inline-block
+} */
+.grid-container {
+    display: grid;
+    grid-gap: 1rem;
+  
+}
+
+.container-fill {
+    grid-template-columns: repeat(auto-fill, minmax(110px, 1fr));
+}
+
+.container-fit {
+    grid-template-columns: repeat(auto-fit, minmax(110px, 1fr));
+}
+
+.grid-element {
+    background-color: lightgreen;
+    border-radius: 5px;
+    height: 120px;
+    width: 100%;
+}
